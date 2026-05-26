@@ -1,8 +1,7 @@
 Spotify Customer Churn Prediction System
 
 Internship Task – Machine Learning
-Organization: Future Interns
-CIN: FIT/DEC25/ML4555
+Organization: Edutech
 Task Number: 02
 
 Project Overview
@@ -90,5 +89,4 @@ Model deployment using Streamlit
 
 Translating ML predictions into business insights
 
-Acknowledgment
-This project was completed as part of the Machine Learning Internship at Future Interns.
+
